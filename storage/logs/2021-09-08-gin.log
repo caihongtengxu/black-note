@@ -1,0 +1,5 @@
+[GIN-debug] POST   /api/v1/login             --> github.com/caihongtengxu/black-note/app/http/controllers.Login (4 handlers)
+[GIN-debug] Listening and serving HTTP on :8089
+::1 - [Wed, 08 Sep 2021 09:49:44 CST] "POST /api/v1/login HTTP/1.1 200 55.38µs "PostmanRuntime/7.28.4" "
+[GIN-debug] POST   /api/v1/login             --> github.com/caihongtengxu/black-note/app/http/controllers.Login (4 handlers)
+[GIN-debug] Listening and serving HTTP on :8089
